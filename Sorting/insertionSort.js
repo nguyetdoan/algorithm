@@ -7,5 +7,5 @@ function insertionSort(arr) {
         arr[j + 1] = currentVal;
     }
 
-    return arr
+    return arr;
 }
